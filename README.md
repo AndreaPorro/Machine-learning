@@ -34,4 +34,4 @@ This project utilizes a unique combination of tools to maximize efficiency and d
 * `mushrooms_decoded.csv`: Original dataset with 22 categorical morphological features.
 
 ---
-*Developed by Andrea Porro, Ilaria Cesaratto, and Chiara Mezzanzanica.*
+*Developed by Andrea Porro, Ilaria Cesaratto (@ilaria-cesa), and Chiara Mezzanzanica (@mezza04).*
