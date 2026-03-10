@@ -1,4 +1,4 @@
-# 🍄 Mushroom Edibility: Hybrid ML Pipeline & XAI Optimization
+# 🍄 Mushroom Edibility: Supervised Learning & XAI Optimization
 
 This repository contains a high-stakes machine learning project developed for the **"Machine Learning"** course as part of the MSc in Data Science at the **University of Milan-Bicocca (UNIMIB)**.
 
