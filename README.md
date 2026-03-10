@@ -29,7 +29,7 @@ This project utilizes a unique combination of tools to maximize efficiency and d
 
 ## 📂 Repository Structure
 * QUI MANCA IL FILE KNIME.
-* QUI MANCA IL FILE PYTHON CON LA XAI.
+* `Project - XAI focus.ipynb`: The Python script used for SHAP interpretability.
 * `Analytic report of the project.pdf`: Comprehensive technical report covering methodology and results.
 * `mushrooms_decoded.csv`: Original dataset with 22 categorical morphological features.
 
