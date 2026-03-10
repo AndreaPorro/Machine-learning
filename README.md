@@ -14,7 +14,7 @@ The study addresses the binary classification of mushrooms (edible vs poisonous)
 ## 🛠️ Tech Stack & Hybrid Workflow
 This project utilizes a unique combination of tools to maximize efficiency and depth:
 * **KNIME Analytics Platform:** Used for the core end-to-end pipeline, including data cleaning, feature selection, model training, and performance comparison via visual workflows.
-* **Python (Integration):** Used specifically for **Explainable AI**. By integrating Python scripts within the KNIME environment, I utilized `SHAP` to calculate and visualize feature contributions.
+* **Python (Integration):** Used specifically for **Explainable AI**. By integrating Python scripts within the KNIME environment, `SHAP` was used to calculate and visualize feature contributions.
 
 
 
