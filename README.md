@@ -33,5 +33,10 @@ This project utilizes a unique combination of tools to maximize efficiency and d
 * `Analytic report of the project.pdf`: Comprehensive technical report covering methodology and results.
 * `mushrooms_decoded.csv`: Original dataset with 22 categorical morphological features.
 
+## Contributors
+
+- [@ilaria-cesa](https://github.com/ilaria-cesa)
+- [@mezza04](https://github.com/mezza04)
+
 ---
-*Developed by Andrea Porro, Ilaria Cesaratto (@ilaria-cesa), and Chiara Mezzanzanica (@mezza04).*
+*Developed by Andrea Porro, Ilaria Cesaratto, and Chiara Mezzanzanica.*
